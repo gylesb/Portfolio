@@ -1,11 +1,11 @@
 #container {
   margin-left: auto;
   margin-right: auto;
-  background-color: #5DC9FF;
 }
 
-h1 {
-  text-align: right;
+.jumbotron {
+  background-color: #38A8FF;
+  text-align: center;
 }
 
 .sidebar{
@@ -14,7 +14,7 @@ h1 {
   height:11%;
   background-color: #f2f2f2;
   padding-left: 20px;
-  text-align:left;
+  text-align: left;
 }
 
 h4 {
