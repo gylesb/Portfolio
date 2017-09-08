@@ -8,20 +8,18 @@
   text-align: center;
 }
 
-.sidebar{
-  left:0;
-  width:210px;
-  height:200%;
-  background-color: #f2f2f2;
-  padding-left: 20px;
-  text-align: left;
-  padding-right: 20px;
-}
-
 h4 {
   text-align: center;
 }
 
 .well {
   padding: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.bg-info {
+  padding: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
