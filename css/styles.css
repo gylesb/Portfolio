@@ -58,3 +58,13 @@ h2 {
 .sayaw {
   text-align: right;
 }
+
+h4.first {
+  color: green;
+  font-style: italic;
+}
+
+h4.first .last {
+  color: darkblue;
+  font-style: oblique;
+}
