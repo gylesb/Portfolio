@@ -1,24 +1,25 @@
-#container {
-  margin-left: auto;
-  margin-right: auto;
-}
-
-h1 {
-  text-decoration: overline;
+.jumbotron {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background-image: url(../img/quest.jpg);
+  background-position: 20% 30%;
+  background-size: cover;
+  color: white;
+  text-shadow: black 0.1cm 0.1cm 0.1cm;
+  font-family: serif;
+  text-align: left;
 }
 
 .box {
   margin-left: 20px;
   margin-right: 20px;
-  margin-top: 20px;
   margin-bottom: 20px;
-  margin: 20px;
   border: 2px solid blue;
-  padding: 20px;
+  padding: 14.75px;
 }
 
 .jumbotron {
-  text-align: center;
+  text-align: left;
 }
 
 h4 {
